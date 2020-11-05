@@ -1,0 +1,22 @@
+2020-08-19 10:56:50.1789 ERROR Invalid model state for the EmployeeForCreation object.
+2020-08-19 10:57:14.3079 ERROR Invalid model state for the EmployeeForCreation object.
+2020-08-19 11:03:54.6708 ERROR Invalid model state for the EmployeeForCreation object.
+2020-08-19 11:06:53.0052 ERROR Invalid model state for the EmployeeForCreation object.
+2020-08-19 11:19:14.2165 ERROR Invalid model state for the EmployeeForCreation object.
+2020-08-19 11:22:15.5964 ERROR Invalid model state for the EmployeeForCreationDto object.
+2020-08-19 11:28:30.5793 INFO Company with id c9d4c053-49b6-410c-bc78-2d54a9991870 doesn't exists in the database
+2020-08-19 11:28:58.5152 ERROR Invalid model state for the patch document.
+2020-08-19 11:34:15.2975 ERROR Invalid model state for the patch document.
+2020-08-19 14:50:24.6432 ERROR Invalid model state  for the object. Controller: Companies, action: CreateCompany.
+2020-08-19 14:57:40.3184 ERROR Invalid model state  for the object. Controller: Employees, action: CreateEmployeeForCompany.
+2020-08-19 15:16:07.3402 INFO Company with id 0ad5b971-ff51-414d-af01-34187e407558 doesn't exists in the database
+2020-08-19 15:16:31.7808 INFO Company with id 6200370b-f1e8-465c-a55d-b4bcca3a759b doesn't exists in the database
+2020-08-19 15:19:06.4382 ERROR Object sent from the client is null. Controller: Companies, action: UpdateCompany
+2020-08-19 15:19:07.5853 INFO Company with id c9d4c053-49b6-410c-bc78-2d54a9991870 doesn't exists in the database
+2020-08-19 15:19:17.5304 ERROR Object sent from the client is null. Controller: Companies, action: UpdateCompany
+2020-08-19 23:47:07.5808 INFO Company with id c9d4c053-49b6-410c-bc78-2d54a9991870 doesn't exists in the database.
+2020-08-19 23:47:39.8471 INFO Company with id c9d4c053-49b6-410c-bc78-2d54a9991870 doesn't exists in the database.
+2020-08-19 23:48:02.4199 INFO Company with id c9d4c053-49b6-410c-bc78-2d54a9991870 doesn't exists in the database.
+2020-08-19 23:48:06.9922 INFO Company with id c9d4c053-49b6-410c-bc78-2d54a9991870 doesn't exists in the database.
+2020-08-19 23:48:41.3399 INFO Company with id c9d4c053-49b6-410c-bc78-2d54a9991870 doesn't exists in the database.
+2020-08-19 23:48:52.6175 INFO Company with id c9d4c053-49b6-410c-bc78-2d54a9991870 doesn't exists in the database.

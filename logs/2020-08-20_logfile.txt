@@ -1,0 +1,1 @@
+2020-08-20 14:22:20.7889 INFO Company with id: c9d4c053-49b6-410c-bc78-2d54a9991870 doesn[t exists in the database.

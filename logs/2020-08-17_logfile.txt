@@ -1,0 +1,8 @@
+2020-08-17 14:36:45.5369 INFO Here is info message from our values controller
+2020-08-17 14:36:45.6099 DEBUG Here is debug message from our values controller
+2020-08-17 14:36:45.6236 WARN Here is warn message from our values controller
+2020-08-17 14:36:45.6236 ERROR Here is an error message from our values controller
+2020-08-17 14:39:02.7995 INFO Here is info message from our values controller
+2020-08-17 14:39:02.8704 DEBUG Here is debug message from our values controller
+2020-08-17 14:39:02.8826 WARN Here is warn message from our values controller
+2020-08-17 14:39:02.8952 ERROR Here is an error message from our values controller
